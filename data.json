@@ -1,1 +1,6 @@
-{"items": [{}]}
+{
+    "items": [{
+        "word": 1,
+        "another": 2
+    }]
+}
